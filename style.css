@@ -23,3 +23,10 @@ h3 {
 #rojo {
   color: red;
 }
+
+img {
+  float: center;
+  width:  500px;
+  height: 500px;
+  object-fit: cover;
+}
