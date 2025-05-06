@@ -15,4 +15,4 @@ collectionH5.forEach((e) => {
         //Asignamos un nuevo color al elemento (h5)
         this.style.color = changeColor(numberColor);
     })
-});
+}); 
