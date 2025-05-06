@@ -7,9 +7,19 @@
 · Haz una clase para aplicar el color azul a tres h3
 
 · Haz un h3 de color rojo.*/
+body {
+  background-color: rgb(139, 139, 139) ;
 
-html {
-    height: 100%;
-    width: 100%;
-  }
-  
+}
+
+h3 {
+  color: rgb(28, 164, 28)
+}
+
+.azul {
+  color: blue;
+}
+
+#rojo {
+  color: red;
+}
