@@ -10,3 +10,14 @@ o Verde, Azul y Rojo.
 
 o Verde, Azul y Rojo.*/
 
+/*Función para aplicar 3 colores aleatorios al azar*/
+
+/*function changeColor() {
+    const colors = ['green', 'blue', 'red'];
+    const randomColor = colors[Math.floor(Math.random() * colors.length)];
+    return randomColor;
+}*/
+
+let red = Math.round(Math.random() * 255);
+let green = Math.round(Math.random() * 255);
+let blue = Math.round(Math.random() * 255);
