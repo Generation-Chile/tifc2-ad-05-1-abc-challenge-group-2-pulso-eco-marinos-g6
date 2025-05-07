@@ -1,10 +1,32 @@
-html {
-    height: 100%;
-    width: 100%;
-  }
+/*· Vincular estilo.css a HTML
 
-h5:hover {
-  cursor: pointer;
-  font-size: 22px;
-  transition: .2s;
+· Haz que el color de fondo sea gris.
+
+· Hacer h3 color verde
+
+· Haz una clase para aplicar el color azul a tres h3
+
+· Haz un h3 de color rojo.*/
+body {
+  background-color: rgb(139, 139, 139) ;
+
+}
+
+h3 {
+  color: rgb(28, 164, 28)
+}
+
+.azul {
+  color: blue;
+}
+
+#rojo {
+  color: red;
+}
+
+img {
+  float: center;
+  width:  500px;
+  height: 500px;
+  object-fit: cover;
 }
