@@ -30,3 +30,9 @@ img {
   height: 500px;
   object-fit: cover;
 }
+
+h5:hover {
+  cursor: pointer;
+  font-size: 22px;
+  transition: .2s;
+}
