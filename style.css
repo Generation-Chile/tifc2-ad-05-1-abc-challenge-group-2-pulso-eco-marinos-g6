@@ -12,15 +12,15 @@ body {
 
 }
 
-h3 {
+.verde {
   color: rgb(28, 164, 28)
 }
 
-.azul {
+.Azul {
   color: blue;
 }
 
-#rojo {
+.rojo {
   color: red;
 }
 
